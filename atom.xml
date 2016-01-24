@@ -4,7 +4,7 @@
   <subtitle><![CDATA[From Jeff Marshall]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jeffmarshall.github.io/"/>
-  <updated>2016-01-24T23:17:02.000Z</updated>
+  <updated>2016-01-24T23:32:04.000Z</updated>
   <id>http://jeffmarshall.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://jeffmarshall.github.io/2016/01/24/What-it-says-when-your-company-sends-me-an-automated-coding-test-and-what-you-should-do-instead/"/>
     <id>http://jeffmarshall.github.io/2016/01/24/What-it-says-when-your-company-sends-me-an-automated-coding-test-and-what-you-should-do-instead/</id>
     <published>2016-01-24T19:49:49.000Z</published>
-    <updated>2016-01-24T23:17:02.000Z</updated>
+    <updated>2016-01-24T23:32:04.000Z</updated>
     <content type="html"><![CDATA[<p>Over the course of my 8 years as a professional programmer, I’ve noticed the emergence of a useless and frustrating screening method: The Automated Coding Test. I’ve spent hours taking online tests where the exam expects you to address problems and use techniques that are completely irrelevant or obsolete. Now, whenever I’m sent one, it’s like the employer is saying the following things to me:</p>
 <h2 id="u201CYour_time_is_worth_less_than_ours-_u201D"><a href="#u201CYour_time_is_worth_less_than_ours-_u201D" class="headerlink" title="“Your time is worth less than ours.”"></a>“Your time is worth less than ours.”</h2><p>This message is the clearest. An automated test that’s administered by a robot (eg. Codility) takes two seconds to send, and up to two hours to complete. It’s also makes it look like you:</p>
 <ul>
@@ -33,14 +33,14 @@
 <li>“Which text editor do you use?”</li>
 <li>“Why?</li>
 </ol>
-<p>To a programmer, the answers to these questions would say a lot about the candidate. There’s very little that a programming test would tell me that a technical interview wouldn’t. If the employer had even one programmer on the team (either an employee or advisor) whom they felt was competent and trustworthy, then they could conduct a technical interview. If they don’t, then it stands to reason that management doesn’t have much faith in their team. It leaves me asking a question I don’t want to be asking: Whether the current tech team is full of impostors, or whether the managers are paranoid.</p>
+<p>To a programmer, the answers to these questions would say a lot about the candidate. There’s very little that a programming test would tell me that a technical interview wouldn’t. If the employer has even one programmer on the team (either an employee or advisor) whom they felt was competent and trustworthy, then they could conduct a technical interview. If they don’t, then it stands to reason that management doesn’t have much faith in their team. It leaves me asking a question I don’t want to be asking: Whether the current tech team is full of impostors, or whether the managers are paranoid.</p>
 <p>The last thing it suggests to me is…</p>
 <h2 id="u201CWe_are_incompetent_managers_u201D"><a href="#u201CWe_are_incompetent_managers_u201D" class="headerlink" title="“We are incompetent managers”"></a>“We are incompetent managers”</h2><p>I understand the desire to make sure a new hire is a good hire. But what if he or she isn’t? </p>
 <p>Would it take so long to realize that the company would go bankrupt? </p>
 <p>Is the company culture so fragile that firing somebody would destroy it? </p>
 <p>These are more questions I don’t want to be asking. How is the conventional interview and probationary process insufficient?</p>
 <p>Bad hires happen, and it shouldn’t be the end of the world. Competent managers should be prepared to handle it.</p>
-<p>Extraneous interview practices show that a company is extremely unwilling to <strong>take the risk</strong> on a bad hire. And the fact that they’ve outsourced this process to a clumsy third party shows that they are also unwilling to <strong>do the work</strong>. This is a combination traits that makes for incompetent management and inept leadership.</p>
+<p>Extraneous interview practices show that a company is extremely unwilling to <strong>take the risk</strong> on a bad hire. And the fact that they’ve outsourced this process to a clumsy third party shows that they are also unwilling to <strong>do the work</strong>. This is a combination of traits that makes for incompetent management and inept leadership.</p>
 <p><em>That said</em>, if a test is absolutely necessary, there is a way to do it that is both respectful and effective…</p>
 <h2 id="Better_3A_Administer_it_yourself"><a href="#Better_3A_Administer_it_yourself" class="headerlink" title="Better: Administer it yourself."></a>Better: Administer it yourself.</h2><p>Come up with a way to test the candidate that is specific to the role, then administer the test in-person. If the role involves automation, have the candidate automate something with you. Have them walk you through the process and show you the result. Spending your time with the candidate shows that you value their time as much as your own, and you get a clear idea of what they can do for your project. </p>
 <p><strong>Make the environment as comfortable as possible</strong> with snacks and refreshments, and then, once the test is complete, <strong>compensate the candidate</strong>. Have them send you an invoice for the hours they spent on it, then pay them. It shows that the candidate’s time is valuable to you, and establishes a precedent of mutual respect.[^fn-app-test] </p>
